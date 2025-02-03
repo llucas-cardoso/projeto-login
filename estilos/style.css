@@ -16,7 +16,8 @@
  html,body{
     background-color: #5f2c82 ;
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
+
  }
  main{
     position: relative;
