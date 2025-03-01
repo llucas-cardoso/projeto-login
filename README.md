@@ -3,7 +3,7 @@
 
 Projeto de um formulário responsivo desenvolvido com HTML e CSS como parte dos meus estudos no [**Curso em Vídeo**](https://www.youtube.com/cursoemvideo)
 
-## Visualuizar
+## Visualizar
 Caso queira acessa o projeto pronto, basta acessar o link: [Projeto Login](https://llucas-cardoso.github.io/projeto-login/)
 
 ## Visão geral do projeto:
